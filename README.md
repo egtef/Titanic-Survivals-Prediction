@@ -13,3 +13,4 @@
 - Try various models on the train dataset .
 - Select catboost model which achieve the best cross validation accuracy score of 81.32%
 - Use catboost model to predict surviving status on unseen data (test dataset).
+- Export the result to "final-submit.csv"
